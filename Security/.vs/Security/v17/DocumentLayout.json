@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JACKE JARAMILLO\\Desktop\\FincaAudita\\Security\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5F15D5-957C-44BE-94C0-9C3A148B93D8}|Data\\Data.csproj|c:\\users\\jacke jaramillo\\desktop\\fincaaudita\\security\\data\\implementations\\usuariodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5F15D5-957C-44BE-94C0-9C3A148B93D8}|Data\\Data.csproj|solutionrelative:data\\implementations\\usuariodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5F15D5-957C-44BE-94C0-9C3A148B93D8}|Data\\Data.csproj|c:\\users\\jacke jaramillo\\desktop\\fincaaudita\\security\\data\\interfaces\\iusuariodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5F15D5-957C-44BE-94C0-9C3A148B93D8}|Data\\Data.csproj|solutionrelative:data\\interfaces\\iusuariodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F751A97-4F44-4976-ACCE-A1F18B789212}|Entity\\Entity.csproj|c:\\users\\jacke jaramillo\\desktop\\fincaaudita\\security\\entity\\model\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F751A97-4F44-4976-ACCE-A1F18B789212}|Entity\\Entity.csproj|solutionrelative:entity\\model\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0A26E0-7A96-4BB8-A6BD-ABE8668BDBFE}|Bunnisses\\Bunnisses.csproj|c:\\users\\jacke jaramillo\\desktop\\fincaaudita\\security\\bunnisses\\security\\interfaces\\iusuariosbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D0A26E0-7A96-4BB8-A6BD-ABE8668BDBFE}|Bunnisses\\Bunnisses.csproj|solutionrelative:bunnisses\\security\\interfaces\\iusuariosbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F751A97-4F44-4976-ACCE-A1F18B789212}|Entity\\Entity.csproj|c:\\users\\jacke jaramillo\\desktop\\fincaaudita\\security\\entity\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F751A97-4F44-4976-ACCE-A1F18B789212}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F751A97-4F44-4976-ACCE-A1F18B789212}|Entity\\Entity.csproj|c:\\users\\jacke jaramillo\\desktop\\fincaaudita\\security\\entity\\dto\\roldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F751A97-4F44-4976-ACCE-A1F18B789212}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\roldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F751A97-4F44-4976-ACCE-A1F18B789212}|Entity\\Entity.csproj|c:\\users\\jacke jaramillo\\desktop\\fincaaudita\\security\\entity\\dto\\vistadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F751A97-4F44-4976-ACCE-A1F18B789212}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\vistadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F751A97-4F44-4976-ACCE-A1F18B789212}|Entity\\Entity.csproj|c:\\users\\jacke jaramillo\\desktop\\fincaaudita\\security\\entity\\dto\\menudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F751A97-4F44-4976-ACCE-A1F18B789212}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\menudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0A26E0-7A96-4BB8-A6BD-ABE8668BDBFE}|Bunnisses\\Bunnisses.csproj|c:\\users\\jacke jaramillo\\desktop\\fincaaudita\\security\\bunnisses\\security\\implements\\usuariosbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D0A26E0-7A96-4BB8-A6BD-ABE8668BDBFE}|Bunnisses\\Bunnisses.csproj|solutionrelative:bunnisses\\security\\implements\\usuariosbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3376953-D1B7-43E5-A7E4-9176F0C758FC}|WebC\\WebC.csproj|c:\\users\\jacke jaramillo\\desktop\\fincaaudita\\security\\webc\\controllers\\implements\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3376953-D1B7-43E5-A7E4-9176F0C758FC}|WebC\\WebC.csproj|solutionrelative:webc\\controllers\\implements\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3376953-D1B7-43E5-A7E4-9176F0C758FC}|WebC\\WebC.csproj|c:\\users\\jacke jaramillo\\desktop\\fincaaudita\\security\\webc\\controllers\\interfaces\\iusuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3376953-D1B7-43E5-A7E4-9176F0C758FC}|WebC\\WebC.csproj|solutionrelative:webc\\controllers\\interfaces\\iusuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuDto.cs",
+              "DocumentMoniker": "C:\\Users\\JACKE JARAMILLO\\Desktop\\FincaAudita\\Security\\Entity\\Dto\\MenuDto.cs",
+              "RelativeDocumentMoniker": "Entity\\Dto\\MenuDto.cs",
+              "ToolTip": "C:\\Users\\JACKE JARAMILLO\\Desktop\\FincaAudita\\Security\\Entity\\Dto\\MenuDto.cs",
+              "RelativeToolTip": "Entity\\Dto\\MenuDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:51:57.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\JACKE JARAMILLO\\Desktop\\FincaAudita\\Security\\WebC\\Controllers\\Interfaces\\IUsuarioController.cs",
+              "RelativeDocumentMoniker": "WebC\\Controllers\\Interfaces\\IUsuarioController.cs",
+              "ToolTip": "C:\\Users\\JACKE JARAMILLO\\Desktop\\FincaAudita\\Security\\WebC\\Controllers\\Interfaces\\IUsuarioController.cs",
+              "RelativeToolTip": "WebC\\Controllers\\Interfaces\\IUsuarioController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:40:29.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\JACKE JARAMILLO\\Desktop\\FincaAudita\\Security\\Entity\\Model\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\JACKE JARAMILLO\\Desktop\\FincaAudita\\Security\\Entity\\Model\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Entity\\Model\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAPQAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:28:08.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUsuarioData.cs",
+              "DocumentMoniker": "C:\\Users\\JACKE JARAMILLO\\Desktop\\FincaAudita\\Security\\Data\\Interfaces\\IUsuarioData.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IUsuarioData.cs",
+              "ToolTip": "C:\\Users\\JACKE JARAMILLO\\Desktop\\FincaAudita\\Security\\Data\\Interfaces\\IUsuarioData.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IUsuarioData.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:16:36.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\JACKE JARAMILLO\\Desktop\\FincaAudita\\Security\\WebC\\Controllers\\Implements\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "WebC\\Controllers\\Implements\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\JACKE JARAMILLO\\Desktop\\FincaAudita\\Security\\WebC\\Controllers\\Implements\\UsuarioController.cs",
+              "RelativeToolTip": "WebC\\Controllers\\Implements\\UsuarioController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwEwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T01:26:38.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuariosBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\JACKE JARAMILLO\\Desktop\\FincaAudita\\Security\\Bunnisses\\Security\\Implements\\UsuariosBusiness.cs",
+              "RelativeDocumentMoniker": "Bunnisses\\Security\\Implements\\UsuariosBusiness.cs",
+              "ToolTip": "C:\\Users\\JACKE JARAMILLO\\Desktop\\FincaAudita\\Security\\Bunnisses\\Security\\Implements\\UsuariosBusiness.cs",
+              "RelativeToolTip": "Bunnisses\\Security\\Implements\\UsuariosBusiness.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAswGoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:42:21.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUsuariosBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\JACKE JARAMILLO\\Desktop\\FincaAudita\\Security\\Bunnisses\\Security\\Interfaces\\IUsuariosBusiness.cs",
+              "RelativeDocumentMoniker": "Bunnisses\\Security\\Interfaces\\IUsuariosBusiness.cs",
+              "ToolTip": "C:\\Users\\JACKE JARAMILLO\\Desktop\\FincaAudita\\Security\\Bunnisses\\Security\\Interfaces\\IUsuariosBusiness.cs",
+              "RelativeToolTip": "Bunnisses\\Security\\Interfaces\\IUsuariosBusiness.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:40:02.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioData.cs",
+              "DocumentMoniker": "C:\\Users\\JACKE JARAMILLO\\Desktop\\FincaAudita\\Security\\Data\\Implementations\\UsuarioData.cs",
+              "RelativeDocumentMoniker": "Data\\Implementations\\UsuarioData.cs",
+              "ToolTip": "C:\\Users\\JACKE JARAMILLO\\Desktop\\FincaAudita\\Security\\Data\\Implementations\\UsuarioData.cs",
+              "RelativeToolTip": "Data\\Implementations\\UsuarioData.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAwGQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:42:08.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RolDto.cs",
+              "DocumentMoniker": "C:\\Users\\JACKE JARAMILLO\\Desktop\\FincaAudita\\Security\\Entity\\Dto\\RolDto.cs",
+              "RelativeDocumentMoniker": "Entity\\Dto\\RolDto.cs",
+              "ToolTip": "C:\\Users\\JACKE JARAMILLO\\Desktop\\FincaAudita\\Security\\Entity\\Dto\\RolDto.cs",
+              "RelativeToolTip": "Entity\\Dto\\RolDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T21:20:31.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VistaDto.cs",
+              "DocumentMoniker": "C:\\Users\\JACKE JARAMILLO\\Desktop\\FincaAudita\\Security\\Entity\\Dto\\VistaDto.cs",
+              "RelativeDocumentMoniker": "Entity\\Dto\\VistaDto.cs",
+              "ToolTip": "C:\\Users\\JACKE JARAMILLO\\Desktop\\FincaAudita\\Security\\Entity\\Dto\\VistaDto.cs",
+              "RelativeToolTip": "Entity\\Dto\\VistaDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T21:16:21.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\JACKE JARAMILLO\\Desktop\\FincaAudita\\Security\\Entity\\Dto\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "Entity\\Dto\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\JACKE JARAMILLO\\Desktop\\FincaAudita\\Security\\Entity\\Dto\\UsuarioDto.cs",
+              "RelativeToolTip": "Entity\\Dto\\UsuarioDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:39:02.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

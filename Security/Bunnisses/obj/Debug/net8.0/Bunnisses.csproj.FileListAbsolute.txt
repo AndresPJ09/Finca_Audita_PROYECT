@@ -1,0 +1,68 @@
+C:\Users\JACKE JARAMILLO\Desktop\Security (1)\Security\Bunnisses\bin\Debug\net8.0\Bunnisses.deps.json
+C:\Users\JACKE JARAMILLO\Desktop\Security (1)\Security\Bunnisses\bin\Debug\net8.0\Bunnisses.dll
+C:\Users\JACKE JARAMILLO\Desktop\Security (1)\Security\Bunnisses\bin\Debug\net8.0\Bunnisses.pdb
+C:\Users\JACKE JARAMILLO\Desktop\Security (1)\Security\Bunnisses\bin\Debug\net8.0\Data.dll
+C:\Users\JACKE JARAMILLO\Desktop\Security (1)\Security\Bunnisses\bin\Debug\net8.0\Entity.dll
+C:\Users\JACKE JARAMILLO\Desktop\Security (1)\Security\Bunnisses\bin\Debug\net8.0\Data.pdb
+C:\Users\JACKE JARAMILLO\Desktop\Security (1)\Security\Bunnisses\bin\Debug\net8.0\Entity.pdb
+C:\Users\JACKE JARAMILLO\Desktop\Security (1)\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.csproj.AssemblyReference.cache
+C:\Users\JACKE JARAMILLO\Desktop\Security (1)\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JACKE JARAMILLO\Desktop\Security (1)\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.AssemblyInfoInputs.cache
+C:\Users\JACKE JARAMILLO\Desktop\Security (1)\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.AssemblyInfo.cs
+C:\Users\JACKE JARAMILLO\Desktop\Security (1)\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.csproj.CoreCompileInputs.cache
+C:\Users\JACKE JARAMILLO\Desktop\Security (1)\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.csproj.Up2Date
+C:\Users\JACKE JARAMILLO\Desktop\Security (1)\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.dll
+C:\Users\JACKE JARAMILLO\Desktop\Security (1)\Security\Bunnisses\obj\Debug\net8.0\refint\Bunnisses.dll
+C:\Users\JACKE JARAMILLO\Desktop\Security (1)\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.pdb
+C:\Users\JACKE JARAMILLO\Desktop\Security (1)\Security\Bunnisses\obj\Debug\net8.0\ref\Bunnisses.dll
+C:\Users\SENA\Desktop\Security (1)\Security\Bunnisses\bin\Debug\net8.0\Bunnisses.deps.json
+C:\Users\SENA\Desktop\Security (1)\Security\Bunnisses\bin\Debug\net8.0\Bunnisses.dll
+C:\Users\SENA\Desktop\Security (1)\Security\Bunnisses\bin\Debug\net8.0\Bunnisses.pdb
+C:\Users\SENA\Desktop\Security (1)\Security\Bunnisses\bin\Debug\net8.0\Data.dll
+C:\Users\SENA\Desktop\Security (1)\Security\Bunnisses\bin\Debug\net8.0\Entity.dll
+C:\Users\SENA\Desktop\Security (1)\Security\Bunnisses\bin\Debug\net8.0\Data.pdb
+C:\Users\SENA\Desktop\Security (1)\Security\Bunnisses\bin\Debug\net8.0\Entity.pdb
+C:\Users\SENA\Desktop\Security (1)\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.csproj.AssemblyReference.cache
+C:\Users\SENA\Desktop\Security (1)\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Desktop\Security (1)\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.AssemblyInfoInputs.cache
+C:\Users\SENA\Desktop\Security (1)\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.AssemblyInfo.cs
+C:\Users\SENA\Desktop\Security (1)\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\Security (1)\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.csproj.Up2Date
+C:\Users\SENA\Desktop\Security (1)\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.dll
+C:\Users\SENA\Desktop\Security (1)\Security\Bunnisses\obj\Debug\net8.0\refint\Bunnisses.dll
+C:\Users\SENA\Desktop\Security (1)\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.pdb
+C:\Users\SENA\Desktop\Security (1)\Security\Bunnisses\obj\Debug\net8.0\ref\Bunnisses.dll
+C:\Users\JACKE JARAMILLO\Desktop\Security\Bunnisses\bin\Debug\net8.0\Bunnisses.deps.json
+C:\Users\JACKE JARAMILLO\Desktop\Security\Bunnisses\bin\Debug\net8.0\Bunnisses.dll
+C:\Users\JACKE JARAMILLO\Desktop\Security\Bunnisses\bin\Debug\net8.0\Bunnisses.pdb
+C:\Users\JACKE JARAMILLO\Desktop\Security\Bunnisses\bin\Debug\net8.0\Data.dll
+C:\Users\JACKE JARAMILLO\Desktop\Security\Bunnisses\bin\Debug\net8.0\Entity.dll
+C:\Users\JACKE JARAMILLO\Desktop\Security\Bunnisses\bin\Debug\net8.0\Data.pdb
+C:\Users\JACKE JARAMILLO\Desktop\Security\Bunnisses\bin\Debug\net8.0\Entity.pdb
+C:\Users\JACKE JARAMILLO\Desktop\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.csproj.AssemblyReference.cache
+C:\Users\JACKE JARAMILLO\Desktop\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JACKE JARAMILLO\Desktop\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.AssemblyInfoInputs.cache
+C:\Users\JACKE JARAMILLO\Desktop\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.AssemblyInfo.cs
+C:\Users\JACKE JARAMILLO\Desktop\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.csproj.CoreCompileInputs.cache
+C:\Users\JACKE JARAMILLO\Desktop\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.csproj.Up2Date
+C:\Users\JACKE JARAMILLO\Desktop\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.dll
+C:\Users\JACKE JARAMILLO\Desktop\Security\Bunnisses\obj\Debug\net8.0\refint\Bunnisses.dll
+C:\Users\JACKE JARAMILLO\Desktop\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.pdb
+C:\Users\JACKE JARAMILLO\Desktop\Security\Bunnisses\obj\Debug\net8.0\ref\Bunnisses.dll
+C:\Users\JACKE JARAMILLO\Desktop\FincaAudita\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.csproj.AssemblyReference.cache
+C:\Users\JACKE JARAMILLO\Desktop\FincaAudita\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JACKE JARAMILLO\Desktop\FincaAudita\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.AssemblyInfoInputs.cache
+C:\Users\JACKE JARAMILLO\Desktop\FincaAudita\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.AssemblyInfo.cs
+C:\Users\JACKE JARAMILLO\Desktop\FincaAudita\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.csproj.CoreCompileInputs.cache
+C:\Users\JACKE JARAMILLO\Desktop\FincaAudita\Security\Bunnisses\bin\Debug\net8.0\Bunnisses.deps.json
+C:\Users\JACKE JARAMILLO\Desktop\FincaAudita\Security\Bunnisses\bin\Debug\net8.0\Bunnisses.dll
+C:\Users\JACKE JARAMILLO\Desktop\FincaAudita\Security\Bunnisses\bin\Debug\net8.0\Bunnisses.pdb
+C:\Users\JACKE JARAMILLO\Desktop\FincaAudita\Security\Bunnisses\bin\Debug\net8.0\Data.dll
+C:\Users\JACKE JARAMILLO\Desktop\FincaAudita\Security\Bunnisses\bin\Debug\net8.0\Entity.dll
+C:\Users\JACKE JARAMILLO\Desktop\FincaAudita\Security\Bunnisses\bin\Debug\net8.0\Data.pdb
+C:\Users\JACKE JARAMILLO\Desktop\FincaAudita\Security\Bunnisses\bin\Debug\net8.0\Entity.pdb
+C:\Users\JACKE JARAMILLO\Desktop\FincaAudita\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.csproj.Up2Date
+C:\Users\JACKE JARAMILLO\Desktop\FincaAudita\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.dll
+C:\Users\JACKE JARAMILLO\Desktop\FincaAudita\Security\Bunnisses\obj\Debug\net8.0\refint\Bunnisses.dll
+C:\Users\JACKE JARAMILLO\Desktop\FincaAudita\Security\Bunnisses\obj\Debug\net8.0\Bunnisses.pdb
+C:\Users\JACKE JARAMILLO\Desktop\FincaAudita\Security\Bunnisses\obj\Debug\net8.0\ref\Bunnisses.dll

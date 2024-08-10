@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Bunnisses",
+    "\\Bunnisses\\Security",
+    "\\Bunnisses\\Security\\Implements",
+    "\\Data",
+    "\\Data\\Implementations",
+    "\\Entity",
+    "\\Entity\\Model",
+    "\\Entity\\Model\\Security",
+    "\\WebC",
+    "\\WebC\\Controllers",
+    "\\WebC\\Controllers\\Implements"
+  ],
+  "SelectedNode": "\\Security.sln",
+  "PreviewInSolutionExplorer": false
+}
